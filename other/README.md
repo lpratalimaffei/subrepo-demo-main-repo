@@ -1,1 +1,2 @@
-# subrepo-demo-other-repo
+# other repo 
+this is the other repo 
